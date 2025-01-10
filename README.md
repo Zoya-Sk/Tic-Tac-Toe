@@ -27,6 +27,8 @@ A responsive and interactive **Tic-Tac-Toe Game** built using HTML, CSS, and Jav
 
 ## Screenshots
 
+- Provided in this Repository only so you should definitely give it a click.!
+
 ### Game Interface
 ![Game Interface]
 
