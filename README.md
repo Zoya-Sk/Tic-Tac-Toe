@@ -32,9 +32,6 @@ A responsive and interactive **Tic-Tac-Toe Game** built using HTML, CSS, and Jav
 ### Game Interface
 ![Game Interface]
 
-### Winner Announcement
-![Winner Announcement](https://via.placeholder.com/500x300.png?text=Winner+Announcement)
-
 ## Technologies Used
 
 - **HTML**: To structure the game.
